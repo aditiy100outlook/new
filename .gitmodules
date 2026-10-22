@@ -1,3 +1,6 @@
 [submodule "test-submodule"]
 	path = test-submodule
 	url = https://github.com/aditiy100outlook/HG-Sub.git
+[submodule "test-submodule-recurse"]
+	path = test-submodule-recurse
+	url = https://github.com/aditiy100outlook/HG-Sub.git
